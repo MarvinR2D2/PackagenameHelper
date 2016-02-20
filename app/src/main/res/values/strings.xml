@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PackagenameHelper</string>
+    <string name="choose_apk_in_phone">Choose apk files in phone</string>
+    <string name="alread_copy_packagename">Packagename has already copied</string>
+</resources>
